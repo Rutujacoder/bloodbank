@@ -1,0 +1,31 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blood-group{
+    background-color: lightgray;
+    font-size: 20px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    padding: 10px;
+}
+.round-percentage{
+    border-radius: 50%;
+    font-size: 50px;
+    padding: 24px;
+    color: white;
+    box-shadow:0 4px 8px 0 rgba(255, 255, 255, 0.466), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+}
+footer{
+    position: sticky;
+    bottom: 0;
+}
+.btn-login{
+    margin-right: 5px;
+}
+#btn-feedback{
+    float: right;
+    margin-top: -2em;
+    margin-right: 20px;
+}
+
+
